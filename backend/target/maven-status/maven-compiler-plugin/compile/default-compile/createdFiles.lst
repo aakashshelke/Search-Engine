@@ -1,0 +1,10 @@
+com\indexingAndSearching\Indexer.class
+com\indexingAndSearching\DocVector.class
+com\indexingAndSearching\MainSolution.class
+com\indexingAndSearching\Indexer$1.class
+com\searchEngine\controller\SearchEngineController.class
+com\indexingAndSearching\AllTerms.class
+com\indexingAndSearching\IndexOpener.class
+com\indexingAndSearching\Similarity.class
+com\searchEngine\SearchEngineApplication.class
+com\indexingAndSearching\VectorGenerator.class
